@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.17.0](https://github.com/St0nersdash/aave-v3-core/compare/v1.16.2...v1.17.0) (2023-02-02)
+
+
+### Features
+
+* upgrade @nomiclabs/hardhat-etherscan from 2.1.8 to 3.1.5 ([723ca2a](https://github.com/St0nersdash/aave-v3-core/commit/723ca2ad6f289293f27fdf6925c3746458f13339))
+* upgrade axios-curlirize from 1.3.7 to 2.0.0 ([bc03af5](https://github.com/St0nersdash/aave-v3-core/commit/bc03af5d939aa0383f0f0902c780d2222f9925d8))
+
+
+### Bug Fixes
+
+* Dockerfile to reduce vulnerabilities ([228aad3](https://github.com/St0nersdash/aave-v3-core/commit/228aad3d678ca6c1372c2810b7a35a9c8f088c52))
+* Dockerfile to reduce vulnerabilities ([fa1b5f3](https://github.com/St0nersdash/aave-v3-core/commit/fa1b5f3d2d0fec4ae93dae1d96d486011bd920df))
+* make InterestRateStrategy contract inheritable ([0311475](https://github.com/St0nersdash/aave-v3-core/commit/0311475614ed7a6c4befba99a7567ee27454f942))
+
 ## [1.16.2](https://github.com/aave/aave-v3-core/compare/v1.16.1...v1.16.2) (2022-07-28)
 
 
