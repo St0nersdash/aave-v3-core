@@ -42,7 +42,7 @@
     "@types/node": "14.0.5",
     "chai": "4.3.4",
     "chai-bignumber": "3.0.0",
-    "defender-relay-client": "1.7.0",
+    "defender-relay-client": "1.38.0",
     "dotenv": "8.2.0",
     "eth-sig-util": "2.5.3",
     "ethereum-waffle": "4.0.9",
