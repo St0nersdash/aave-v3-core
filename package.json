@@ -86,7 +86,7 @@
   ],
   "license": "BUSL-1.1",
   "dependencies": {
-    "@nomiclabs/hardhat-etherscan": "^3.1.5",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
     "axios-curlirize": "^2.0.0",
     "tmp-promise": "^3.0.2"
   },
