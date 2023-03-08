@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.1](https://github.com/St0nersdash/aave-v3-core/compare/v1.17.0...v1.17.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* upgrade @nomiclabs/hardhat-etherscan from 3.1.5 to 3.1.6 ([b0e5483](https://github.com/St0nersdash/aave-v3-core/commit/b0e54833fbe3f63c39e5ca60053c115aafce64bb))
+
 ## [1.17.0](https://github.com/St0nersdash/aave-v3-core/compare/v1.16.2...v1.17.0) (2023-02-02)
 
 
