@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.17.3](https://github.com/St0nersdash/aave-v3-core/compare/v1.17.2...v1.17.3) (2024-04-17)
+
+
+### Bug Fixes
+
+* Dockerfile to reduce vulnerabilities ([6668c53](https://github.com/St0nersdash/aave-v3-core/commit/6668c53184365e8614665ca5bc9ad56ac462ac8e))
+* package.json to reduce vulnerabilities ([9ee1fa4](https://github.com/St0nersdash/aave-v3-core/commit/9ee1fa41203bb71354ebbb0fac4027b91c33ac60))
+
 ## [1.17.2](https://github.com/St0nersdash/aave-v3-core/compare/v1.17.1...v1.17.2) (2023-04-08)
 
 
