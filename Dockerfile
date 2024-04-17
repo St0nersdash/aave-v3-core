@@ -1,6 +1,6 @@
 FROM ethereum/solc:0.6.12 as build-deps
 
-FROM node:19-bullseye-slim
+FROM node:21.7.2-bullseye-slim
 
 USER node
 
