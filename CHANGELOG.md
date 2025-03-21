@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.5](https://github.com/St0nersdash/aave-v3-core/compare/v1.17.4...v1.17.5) (2025-03-21)
+
+
+### Bug Fixes
+
+* package.json & package-lock.json to reduce vulnerabilities ([d90fd09](https://github.com/St0nersdash/aave-v3-core/commit/d90fd09280d42e8724f1279e62b939a5ae599d6d))
+
 ## [1.17.4](https://github.com/St0nersdash/aave-v3-core/compare/v1.17.3...v1.17.4) (2025-02-27)
 
 
